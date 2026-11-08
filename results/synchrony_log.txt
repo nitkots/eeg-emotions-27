@@ -1,0 +1,31 @@
+admiration      ISC 0.0650  shift-null95 0.0145  wrong-clip 0.0030  p=0.005
+adoration       ISC 0.0191  shift-null95 0.0170  wrong-clip 0.0021  p=0.045
+aesthetic       ISC 0.0523  shift-null95 0.0227  wrong-clip -0.0069  p=0.005
+amusement       ISC 0.0668  shift-null95 0.0113  wrong-clip -0.0030  p=0.005
+anger           ISC 0.0926  shift-null95 0.0185  wrong-clip -0.0032  p=0.005
+anxiety         ISC 0.0832  shift-null95 0.0130  wrong-clip 0.0014  p=0.005
+awe             ISC 0.0628  shift-null95 0.0115  wrong-clip -0.0009  p=0.005
+awkwardness     ISC 0.1129  shift-null95 0.0200  wrong-clip 0.0084  p=0.005
+boredom         ISC 0.0879  shift-null95 0.0276  wrong-clip 0.0007  p=0.005
+calmness        ISC 0.0429  shift-null95 0.0191  wrong-clip -0.0009  p=0.005
+confusion       ISC 0.0994  shift-null95 0.0195  wrong-clip 0.0092  p=0.005
+craving         ISC 0.0721  shift-null95 0.0187  wrong-clip 0.0015  p=0.005
+disgust         ISC 0.0614  shift-null95 0.0205  wrong-clip 0.0047  p=0.005
+empathic pain   ISC 0.1169  shift-null95 0.0166  wrong-clip -0.0077  p=0.005
+entrancement    ISC 0.0490  shift-null95 0.0258  wrong-clip 0.0026  p=0.005
+excitement      ISC 0.0426  shift-null95 0.0139  wrong-clip 0.0003  p=0.005
+fear            ISC 0.0683  shift-null95 0.0122  wrong-clip -0.0000  p=0.005
+horror          ISC 0.0818  shift-null95 0.0183  wrong-clip 0.0072  p=0.005
+interest        ISC 0.0722  shift-null95 0.0126  wrong-clip 0.0017  p=0.005
+joy             ISC 0.0772  shift-null95 0.0167  wrong-clip -0.0020  p=0.005
+nostalgia       ISC 0.0498  shift-null95 0.0301  wrong-clip -0.0035  p=0.010
+relief          ISC 0.0871  shift-null95 0.0130  wrong-clip -0.0055  p=0.005
+romance         ISC 0.0498  shift-null95 0.0352  wrong-clip 0.0064  p=0.005
+sadness         ISC 0.0773  shift-null95 0.0262  wrong-clip 0.0039  p=0.005
+satisfaction    ISC 0.1024  shift-null95 0.0185  wrong-clip 0.0000  p=0.005
+sexual desire   ISC 0.0360  shift-null95 0.0248  wrong-clip -0.0015  p=0.015
+surprise        ISC 0.0779  shift-null95 0.0154  wrong-clip -0.0030  p=0.005
+
+ISC vs decoding recall across clips: Spearman rho=0.32, p=0.107
+frontal (eye-movement) vs posterior (visual) ISC, mean over clips: 0.1096 0.05
+clip length vs ISC: rho=0.29, p=0.144

@@ -1,0 +1,12 @@
+{
+  "frontal (near eyes)": {
+    "mean_isc": 0.1096,
+    "mean_null95": 0.0264,
+    "clips_significant_fdr05": 27
+  },
+  "posterior (visual cortex)": {
+    "mean_isc": 0.05,
+    "mean_null95": 0.0204,
+    "clips_significant_fdr05": 24
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "cv": {
+    "A  length only | logistic": [
+      0.164,
+      0.018
+    ],
+    "A  length only | forest": [
+      0.778,
+      0.005
+    ],
+    "B  naive (README rate, whole trial) | logistic": [
+      0.076,
+      0.014
+    ],
+    "B  naive (README rate, whole trial) | forest": [
+      0.084,
+      0.007
+    ],
+    "C  naive + length | logistic": [
+      0.227,
+      0.027
+    ],
+    "C  naive + length | forest": [
+      0.544,
+      0.03
+    ],
+    "D  corrected rate, first 18 s, no length | logistic": [
+      0.098,
+      0.014
+    ],
+    "D  corrected rate, first 18 s, no length | forest": [
+      0.098,
+      0.009
+    ]
+  },
+  "transfer": {
+    "naive": {
+      "train256_test128_acc": 0.05,
+      "alpha_minus_beta_group_gap": -0.023
+    },
+    "corrected": {
+      "train256_test128_acc": 0.061,
+      "alpha_minus_beta_group_gap": 0.015
+    }
+  },
+  "chance": 0.037037037037037035
+}
